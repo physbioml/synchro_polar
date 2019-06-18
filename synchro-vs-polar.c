@@ -9,7 +9,6 @@
 #define R 1.5
 #define N_ROW 30
 #define N_STEP 3000*1240
-//#define N_STEP 1000
 
 #define N_CONF 20000
 #define XMQ 1
